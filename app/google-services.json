@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "564217366295",
+    "firebase_url": "https://hypnolearn-bdaf5.firebaseio.com",
+    "project_id": "hypnolearn-bdaf5",
+    "storage_bucket": "hypnolearn-bdaf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564217366295:android:16f16cf906f69e00",
+        "android_client_info": {
+          "package_name": "com.prabhu.hypnolearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564217366295-82m2vak0ovrbnoqj6t1jlp1bcm327vim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prabhu.hypnolearn",
+            "certificate_hash": "234e58161e84b8d96bd67094805565784b03c355"
+          }
+        },
+        {
+          "client_id": "564217366295-td9r6t2m7k99hrk8lgbdvlnj6ts48tf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUnJmq66hvR4ipqN1uxjAVdSg2XfUppj4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564217366295-td9r6t2m7k99hrk8lgbdvlnj6ts48tf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
